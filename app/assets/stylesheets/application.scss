@@ -7,11 +7,12 @@
 @import "bootstrap/scss/bootstrap";
 @import "font-awesome-sprockets";
 @import "font-awesome";
+@import "thredded";
 
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
-@import "thredded";
+
 .thredded--main-container {
   // The padding and max-width are handled by the app's container.
   max-width: none;
