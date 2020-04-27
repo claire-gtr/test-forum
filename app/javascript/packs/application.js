@@ -25,6 +25,7 @@ console.log('Hello World from Webpacker')
 
 // External imports
 import "bootstrap";
+require('thredded_imports.js');
 
 // Internal imports, e.g:
 // import { initSelect2 } from '../components/init_select2';
